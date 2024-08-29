@@ -1,10 +1,7 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Gotam Singh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divident1&label=Profile%20views&color=0e75b6&style=flat" alt="divident1" /> </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/Divident1/Divident1/blob/2d077d72a7276a5d3da37e580d115b2f8c33b357/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true">
-
 
 - 🔭 I’m currently working on **my dream project**
 
@@ -19,6 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gotam-singh-27504821a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gotam-singh-27504821a" height="30" width="40" /></a>
+<a href="https://instagram.com/i_am_gotam_thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_gotam_thakur" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/gotam_00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gotam_00" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
