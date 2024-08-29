@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gotam Singh</h1>
 <h3 align="center">A passionate fullstack developer from J&K </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divident1&label=Profile%20views&color=0e75b6&style=flat" alt="divident1" /> </p>
+![status](https://img.shields.io/badge/status-up-5D3FD3) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://komarev.com/ghpvc/?username=Divident1&label=Profile%20views&color=blue&countColor=%237B1E7B&style=flat)
+
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Divident1/Divident1/blob/2d077d72a7276a5d3da37e580d115b2f8c33b357/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true">
 
