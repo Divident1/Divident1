@@ -3,6 +3,8 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divident1&label=Profile%20views&color=0e75b6&style=flat" alt="divident1" /> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/Divident1/Divident1/blob/2d077d72a7276a5d3da37e580d115b2f8c33b357/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true">
+
 
 - 🔭 I’m currently working on **my dream project**
 
